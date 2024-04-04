@@ -57,5 +57,5 @@ cd <section-name>
 [LinkedIn](https://www.linkedin.com/in/nicholascheah002/)
 
 ## Misc
-[Screenshots for this lab](/screenshots)
+[Screenshots for this lab (relative link doesn't seem to work on GitHub Pages -- works fine in the original index.md file)](/screenshots)
 
